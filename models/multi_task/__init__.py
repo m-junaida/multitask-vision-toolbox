@@ -1,0 +1,1 @@
+from models.multi_task.multi_task_model import MultiTaskModel

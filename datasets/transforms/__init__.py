@@ -1,0 +1,3 @@
+from datasets.transforms.transforms import FixedCrop, MultiTaskResize, MultiTaskRandomFlip
+from datasets.transforms.formatting import PackMultiTaskInputs
+from datasets.transforms.loading import LoadMultiTaskAnnotations
